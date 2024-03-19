@@ -1,0 +1,39 @@
+# File sementara dan file cache
+*.tmp
+*.cache
+*.log
+*.bak
+
+# Direktori dan file yang dihasilkan
+node_modules/
+.idea/
+.vscode/
+.DS_Store
+
+# File konfigurasi lokal
+.env
+
+# File hasil kompilasi dan pembangunan
+*.class
+*.jar
+*.war
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+
+# File yang berisi kredensial atau informasi sensitif
+*.key
+*.pem
+*.password
+
+# File konfigurasi proyek spesifik atau preferensi pengguna
+.settings/
+.editorconfig
+
+# File yang dibuat secara otomatis
+*.lock
+*.pid
+*.swp
+*.tmp
